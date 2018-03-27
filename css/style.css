@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=39712793");
+}
+.keys{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.key{
+    border: 1px solid black;
+    min-width: 3.5vw;
+    min-height: 14vh;
+    color: red;
+}
